@@ -6,7 +6,7 @@ from azure.ai.inference.models import SystemMessage, UserMessage
 from azure.core.credentials import AzureKeyCredential
 
 # Configuration
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "xxxghpxxx_xxxIUYIHs1MlKD3mBfqA5xxxrboeGKTxBygZ3BBT12xxx")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "xxxghpxxx_xxxRofjqjY17QO1laxxxOXy8G6cUjlt8truD3GWTvpxxx")
 ENDPOINT = "https://models.github.ai/inference"
 MODEL = "openai/gpt-4.1-mini"
 

@@ -1,4 +1,5 @@
-('C:\\Users\\nileshf\\Desktop\\fk\\New folder\\build\\test\\PYZ-00.pyz',
+('C:\\Users\\nileshf\\Desktop\\fk\\New folder\\New '
+ 'folder\\gptt\\build\\test\\PYZ-00.pyz',
  [('Crypto',
    'C:\\Users\\nileshf\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Crypto\\__init__.py',
    'PYMODULE'),
